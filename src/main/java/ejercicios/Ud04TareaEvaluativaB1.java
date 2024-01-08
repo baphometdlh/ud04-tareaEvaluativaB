@@ -57,9 +57,9 @@ public class Ud04TareaEvaluativaB1 {
 		Student tempStudent = new Student();
 		Address tempAddress = new Address();
 		
-		tempStudent.setFirstName("Carlos");
+		tempStudent.setFirstName("Julian");
 		tempStudent.setLastName("Gomez");
-		tempStudent.setEmail("cgomez@birt.eus");
+		tempStudent.setEmail("jgomez@birt.eus");
 		tempStudent.getPhones().add("943555666");
 		tempStudent.getPhones().add("678543900");
 		tempStudent.setBirthdate(LocalDate.parse("1986-01-30"));
